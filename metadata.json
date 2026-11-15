@@ -1,0 +1,6 @@
+{
+  "name": "비례 마을 수학 탐험",
+  "description": "초등학교 6학년 비례와 비례배분을 마을 NPC들과 함께 풀어보는 3D Three.js 어드벤처 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
